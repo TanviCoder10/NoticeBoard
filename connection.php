@@ -1,3 +1,3 @@
 <?php
-$conn=mysqli_connect("localhost","root","Tanvi$10","online_notice");
+$conn=mysqli_connect("localhost","root"," ","online_notice");
 ?>
